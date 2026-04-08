@@ -28,6 +28,7 @@ A beautiful, interactive wall calendar built with **React** and **Vite**. Featur
 ---
 
 ## 📁 Project Structure
+```text
 calendar-app/
 ├── index.html
 ├── vite.config.js
